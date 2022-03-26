@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 <!--
 **mehryar-m/mehryar-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently writing some software and managing a team [@IBM](https://www.ibm.com/ca-en). Right now, my team is in the business of building event streaming platforms with [Kafka](https://kafka.apache.org). 
+I used to write software and manage teams [@IBM](https://www.ibm.com/ca-en).
 
-I'm mostly interested in distributed systems and data-intensive applications. While I don't really tweet you can reach out to me there. [@mehryarm](https://twitter.com/MehryarM). 
+I'm mostly interested in distributed systems and data-intensive applications
+
+Twitter: [@mehryarm](https://twitter.com/MehryarM). 
