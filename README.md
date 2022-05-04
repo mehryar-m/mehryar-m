@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I used to write software and manage teams [@IBM](https://www.ibm.com/ca-en).
-
-I'm mostly interested in distributed systems and data-intensive applications
+I write software and manage teams ~[@IBM](https://www.ibm.com/ca-en)~ [@Shopify](https://shopify.engineering/).
 
 Twitter: [@mehryarm](https://twitter.com/MehryarM). 
